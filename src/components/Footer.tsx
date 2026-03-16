@@ -22,8 +22,8 @@ const Footer = () => (
         </div>
         <div>
           <h4 className="font-body font-semibold text-foreground mb-3">Contact Info</h4>
-          <p className="text-muted-foreground font-body text-sm">📞 9500705340</p>
-          <p className="text-muted-foreground font-body text-sm">✉️ sreeraa.ceo@gmail.com</p>
+          <p className="text-muted-foreground font-body text-sm">📞7708994988</p>
+          <p className="text-muted-foreground font-body text-sm">✉️ akshayaconstructionscbe@gmail.com</p>
           <p className="text-muted-foreground font-body text-sm mt-2">📍 NO 3/2A, Pappampatti, Kannampalayam, Nachiyar Nagar, Coimbatore – 641016</p>
         </div>
       </div>

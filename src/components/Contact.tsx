@@ -36,7 +36,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-body font-semibold text-foreground">Phone</h4>
-                  <a href="tel:9500705340" className="text-muted-foreground font-body hover:text-primary transition-colors">9500705340</a>
+                  <a href="tel:7708994988" className="text-muted-foreground font-body hover:text-primary transition-colors">7708994988</a>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -45,7 +45,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-body font-semibold text-foreground">Email</h4>
-                  <a href="mailto:sreeraa.ceo@gmail.com" className="text-muted-foreground font-body hover:text-primary transition-colors">sreeraa.ceo@gmail.com</a>
+                  <a href="mailto:akshayaconstructionscbe@gmail.com" className="text-muted-foreground font-body hover:text-primary transition-colors">akshayaconstructionscbe@gmail.com</a>
                 </div>
               </div>
               <div className="flex items-start gap-4">
