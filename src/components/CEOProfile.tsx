@@ -22,7 +22,7 @@ const CEOProfile = () => (
           <h3 className="text-2xl md:text-3xl font-display font-bold gold-text-gradient mb-1">Er. Karthik V</h3>
           <p className="text-primary font-body text-sm tracking-wider uppercase mb-4">Founder & CEO</p>
           <p className="text-muted-foreground font-body leading-relaxed">
-            With over 8 years of experience in the construction industry, Er. Karthik V founded Akshaya Construction with a vision to redefine quality in building. His expertise spans residential construction, interior design, and Vastu-compliant architectural planning. Under his leadership, Akshaya Construction has completed 18+ prestigious projects and served over 50 satisfied clients across Tamil Nadu.
+            With over 10 years of experience in the construction industry, Er. Karthik V founded Akshaya Construction with a vision to redefine quality in building. His expertise spans residential construction, interior design, and Vastu-compliant architectural planning. Under his leadership, Akshaya Construction has completed 18+ prestigious projects and served over 50 satisfied clients across Tamil Nadu.
           </p>
         </div>
       </motion.div>

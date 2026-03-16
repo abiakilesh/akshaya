@@ -42,7 +42,7 @@ const About = () => (
         <span className="text-primary font-body text-sm tracking-widest uppercase">About Us</span>
         <h2 className="text-3xl md:text-5xl font-display font-bold mt-3 mb-6">Who We Are</h2>
         <p className="text-muted-foreground max-w-3xl mx-auto text-lg font-body">
-          Akshaya Construction is a premier construction company based in Coimbatore, Tamil Nadu. With over 8 years of industry expertise, we specialize in delivering world-class residential and commercial projects with 100% Vastu compliance. Led by Er. Karthik V, we blend traditional wisdom with modern engineering to create spaces that inspire.
+          Akshaya Construction is a premier construction company based in Coimbatore, Tamil Nadu. With over 10 years of industry expertise, we specialize in delivering world-class residential and commercial projects with 100% Vastu compliance. Led by Er. Karthik V, we blend traditional wisdom with modern engineering to create spaces that inspire.
         </p>
       </motion.div>
 
